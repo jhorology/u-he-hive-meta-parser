@@ -22,7 +22,7 @@ u-he Hive preset metadata parser.
 ### Usage
 
 ```javascript
-var parser = require('u-he-apple-loops-meta-reader'),
+var parser = require('u-he-hive-meta-parser'),
     beautify = require('js-beautify');
 
 var metadata = parser.parse('/Library/Audio/Presets/u-he/Hive/Acidity.h2p');
